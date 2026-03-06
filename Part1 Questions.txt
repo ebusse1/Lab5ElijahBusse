@@ -1,0 +1,14 @@
+Questions for 1A:
+
+1. I recognize some of the structures seen in the part1A code. 
+    I notice a distinct section for loading data and variables, and then another section for the loop. 
+
+
+Questions for 1B: 
+
+1. Examining this code, notice the lack of all but one jmp type commands. 
+    The loop section of the code is completely gone, as it was frivolous, useless, 
+    pointless, and of questionable origin. 
+
+2. Notice that the data portion of the code has completely moved locations from above main: to below it. 
+

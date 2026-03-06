@@ -1,0 +1,11 @@
+1. Helloworld.s has a size of 1k. It is 38 lines long.
+
+2. Helloworldcpp.s has a size of 22k. It is 836 lines long.
+
+3. The C++ code is so much larger because C++ requires more set up and breakdown. 
+    It is also creating classes and objects which is not something the C code is doing. 
+
+4. C++ vs C (AN EPIC BATTLE):
+    a. C++ is more robust
+    b. C++ is more future proof 
+    c. C is faster for smaller programs, but at scale they have the same speed. 
